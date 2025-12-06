@@ -1,0 +1,1 @@
+A beat saber clone that creates boxes based on parsed Ultrastar Deluxe karaoke files. All you need to add a song is to add the sound file and lyric file to the resources folder. Buttons are created dynamically for added songs. 
